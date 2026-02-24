@@ -1,13 +1,13 @@
 # EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
 
-**DATE:**06-02-2026
+**DATE:06-02-2026**
 
-**NAME:**Gokul S
+**NAME:Gokul S**
 
-**ROLL NO:**212223040051
+**ROLL NO:212223040051**
 
-**DEPARTMENT:**Computer Science and Engineering
+**DEPARTMENT:Computer Science and Engineering**
 
 ## Aim
 
